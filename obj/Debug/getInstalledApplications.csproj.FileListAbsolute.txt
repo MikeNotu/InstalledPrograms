@@ -1,0 +1,19 @@
+C:\Users\Mike\source\Reposteri\getInstalledApplications\bin\Debug\getInstalledApplications.exe.config
+C:\Users\Mike\source\Reposteri\getInstalledApplications\bin\Debug\getInstalledApplications.exe
+C:\Users\Mike\source\Reposteri\getInstalledApplications\bin\Debug\getInstalledApplications.pdb
+C:\Users\Mike\source\Reposteri\getInstalledApplications\obj\Debug\getInstalledApplications.csprojAssemblyReference.cache
+C:\Users\Mike\source\Reposteri\getInstalledApplications\obj\Debug\getInstalledApplications.Form1.resources
+C:\Users\Mike\source\Reposteri\getInstalledApplications\obj\Debug\getInstalledApplications.Properties.Resources.resources
+C:\Users\Mike\source\Reposteri\getInstalledApplications\obj\Debug\getInstalledApplications.csproj.GenerateResource.cache
+C:\Users\Mike\source\Reposteri\getInstalledApplications\obj\Debug\getInstalledApplications.exe
+C:\Users\Mike\source\Reposteri\getInstalledApplications\obj\Debug\getInstalledApplications.pdb
+D:\PDFs y Words Viejos\1889405_PIA_Admon\Proyecto_Entrega_Final\1_Programas Instalados\bin\Debug\getInstalledApplications.exe.config
+D:\PDFs y Words Viejos\1889405_PIA_Admon\Proyecto_Entrega_Final\1_Programas Instalados\bin\Debug\getInstalledApplications.exe
+D:\PDFs y Words Viejos\1889405_PIA_Admon\Proyecto_Entrega_Final\1_Programas Instalados\bin\Debug\getInstalledApplications.pdb
+D:\PDFs y Words Viejos\1889405_PIA_Admon\Proyecto_Entrega_Final\1_Programas Instalados\obj\Debug\getInstalledApplications.csprojAssemblyReference.cache
+D:\PDFs y Words Viejos\1889405_PIA_Admon\Proyecto_Entrega_Final\1_Programas Instalados\obj\Debug\getInstalledApplications.Form1.resources
+D:\PDFs y Words Viejos\1889405_PIA_Admon\Proyecto_Entrega_Final\1_Programas Instalados\obj\Debug\getInstalledApplications.Properties.Resources.resources
+D:\PDFs y Words Viejos\1889405_PIA_Admon\Proyecto_Entrega_Final\1_Programas Instalados\obj\Debug\getInstalledApplications.csproj.GenerateResource.cache
+D:\PDFs y Words Viejos\1889405_PIA_Admon\Proyecto_Entrega_Final\1_Programas Instalados\obj\Debug\getInstalledApplications.csproj.CoreCompileInputs.cache
+D:\PDFs y Words Viejos\1889405_PIA_Admon\Proyecto_Entrega_Final\1_Programas Instalados\obj\Debug\getInstalledApplications.exe
+D:\PDFs y Words Viejos\1889405_PIA_Admon\Proyecto_Entrega_Final\1_Programas Instalados\obj\Debug\getInstalledApplications.pdb

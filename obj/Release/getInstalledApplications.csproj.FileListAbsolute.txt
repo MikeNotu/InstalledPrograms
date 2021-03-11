@@ -1,0 +1,9 @@
+C:\Users\Mike\source\Reposteri\getInstalledApplications\bin\Release\getInstalledApplications.exe.config
+C:\Users\Mike\source\Reposteri\getInstalledApplications\bin\Release\getInstalledApplications.exe
+C:\Users\Mike\source\Reposteri\getInstalledApplications\bin\Release\getInstalledApplications.pdb
+C:\Users\Mike\source\Reposteri\getInstalledApplications\obj\Release\getInstalledApplications.Form1.resources
+C:\Users\Mike\source\Reposteri\getInstalledApplications\obj\Release\getInstalledApplications.Properties.Resources.resources
+C:\Users\Mike\source\Reposteri\getInstalledApplications\obj\Release\getInstalledApplications.csproj.GenerateResource.cache
+C:\Users\Mike\source\Reposteri\getInstalledApplications\obj\Release\getInstalledApplications.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\Reposteri\getInstalledApplications\obj\Release\getInstalledApplications.exe
+C:\Users\Mike\source\Reposteri\getInstalledApplications\obj\Release\getInstalledApplications.pdb
